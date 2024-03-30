@@ -1,0 +1,1 @@
+Fizz and Buzz. If number is devisible by 3 and remainder is 0 we print Buzz and if number is devisible by 5 and remainder is 0 we print Fizz then when it is devisible by both 3 and 5 we print FizzBuzz
